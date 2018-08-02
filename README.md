@@ -14,7 +14,7 @@ _Client_
 When you submit, please include the link to this repo. Include your deployed links below:
 
 Copy and Paste the Deployed Client Link to this README
-> your url here
+https://drill-2-full-stack.firebaseapp.com/
 
 Copy and Paste the Deployed Server Link to this README
 https://riach-drill-2-full-stack.herokuapp.com/yeast
